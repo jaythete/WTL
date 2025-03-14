@@ -1,0 +1,12 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>AsmApp</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">body[_ngcontent-ng-c1193461764]{font-family:Arial,sans-serif;margin:0;padding:0;display:flex;justify-content:center;align-items:center;height:100vh;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;text-align:center}.welcome-container[_ngcontent-ng-c1193461764]{animation:_ngcontent-ng-c1193461764_fadeIn 2s ease-in-out}h1[_ngcontent-ng-c1193461764]{font-size:3rem;margin-bottom:10px}p[_ngcontent-ng-c1193461764]{font-size:1.2rem}@keyframes _ngcontent-ng-c1193461764_fadeIn{0%{opacity:0;transform:translateY(-20px)}to{opacity:1;transform:translateY(0)}}button[_ngcontent-ng-c1193461764]{padding:10px;border-radius:10px;width:100px;background-color:pink}button[_ngcontent-ng-c1193461764]:hover{transform:scale(1.2);transition:1s ease-in-out}a[_ngcontent-ng-c1193461764]{text-decoration:none;color:inherit}</style></head>
+<body><!--nghm-->
+  <app-root ng-version="19.1.7" ngh="1" ng-server-context="ssg"><router-outlet></router-outlet><app-home _nghost-ng-c1193461764 ngh="0"><html _ngcontent-ng-c1193461764 lang="en"><head _ngcontent-ng-c1193461764><meta _ngcontent-ng-c1193461764 charset="UTF-8"><meta _ngcontent-ng-c1193461764 name="viewport" content="width=device-width, initial-scale=1.0"><title _ngcontent-ng-c1193461764>Welcome</title></head><body _ngcontent-ng-c1193461764><div _ngcontent-ng-c1193461764 class="welcome-container"><h1 _ngcontent-ng-c1193461764>Welcome to my Angular App</h1><p _ngcontent-ng-c1193461764>Get ready for an amazing experience!</p><button _ngcontent-ng-c1193461764><a _ngcontent-ng-c1193461764 href="registration">Registration</a></button><button _ngcontent-ng-c1193461764><a _ngcontent-ng-c1193461764 href="login">Login</a></button></div></body></html></app-home><!----></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-75RA233I.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"0":[{"i":"c1193461764","r":1}]}}]}</script></body></html>`;
