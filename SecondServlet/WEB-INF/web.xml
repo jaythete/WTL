@@ -1,0 +1,10 @@
+<web-app>  
+<servlet>  
+<servlet-name>Connection1</servlet-name>  
+<servlet-class>Connection1</servlet-class>  
+</servlet>  
+<servlet-mapping>  
+<servlet-name>Connection1</servlet-name>  
+<url-pattern>/insert</url-pattern>  
+</servlet-mapping>  
+</web-app>  
